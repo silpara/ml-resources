@@ -1,4 +1,5 @@
 # ML Resources
+Resources listed here are on my to-read, to-do, to-try lists, not endorsements. I collect these typically at the beginning of projects and I go through them as time progresses when I want to explore a new way of looking at the problem I am working on.
 
 
 ## Ranking & Recommendations
@@ -52,7 +53,14 @@
 11. [Microsoft Uses Machine Learning and Optimization to Reduce E-Commerce Fraud](https://pubsonline.informs.org/doi/10.1287/inte.2019.1017) `Microsoft` `INFORMS`
 12. [Dual Sequential Variational Autoencoders for Fraud Detection](https://link.springer.com/chapter/10.1007/978-3-030-44584-3_2) `Univ. Lyon` `Univ. St-Etienne` `IDA 2020`
 13. [Fraud Detection for E-commerce Transactions by Employing a Prudential Multiple Consensus Model](https://www.sciencedirect.com/science/article/abs/pii/S2214212618304216) `University of Cagliari`
-14. 
+14. [Adaptive Fraud Detection System Using Dynamic Risk](https://arxiv.org/abs/1810.04654) `Virginia Tech` `Microsoft`
+15. [Fraud detection system : A survey](https://www.sciencedirect.com/science/article/pii/S1084804516300571) `Universiti Teknologi Malaysia`
+16. [Graph-based Anomaly Detection and Description: A Survey](https://arxiv.org/abs/1404.4679) `Stony Brook University` `City University of New York` `CMU`
+17. [Temporal Sequence Learning and Data Reduction for Anomaly Detection](https://www.cerias.purdue.edu/assets/pdf/bibtex_archive/98-18.pdf) `Purdue`
+18. [A Comprehensive Survey of Data Mining-based Fraud Detection Research](https://arxiv.org/abs/1009.6119) `Monash University` `Baycorp Advantage`
+19. [On Identifying Anomalies in Tor Usage with Applications in Detecting Internet Censorship](https://arxiv.org/abs/1507.05819) `Oxford`
+20. [Temporal Anomaly Detection: Calibrating the Surprise](https://arxiv.org/abs/1705.10085) `IBM`
+21. [Towards Detecting Anomalous User Behavior in Online Social Networks](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-viswanath.pdf) `AT&T Labs` `Northeastern University`
 
 
 ## Feature Engineering
