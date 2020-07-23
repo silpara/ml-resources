@@ -4,6 +4,10 @@ Resources listed here are on my to-read, to-do, to-try lists, not endorsements. 
 
 ## Ranking & Recommendations
 
+### Introductory Resources
+1. [A Short Introduction to Learning to Rank](http://times.cs.uiuc.edu/course/598f16/l2r.pdf)
+
+
 ### Search
 1. [xQuAD : Exploiting Query Reformulations for Web Search Result Diversification](http://www.ra.ethz.ch/cdstore/www2010/www/p881.pdf) `WWW 2010`
 2. [Counterfactual Estimation and Optimization of Click Metrics for Search Engines](https://arxiv.org/abs/1403.1891) `Microsoft` `Facebook` `WWW 2015`
