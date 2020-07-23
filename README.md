@@ -6,6 +6,7 @@ Resources listed here are on my to-read, to-do, to-try lists, not endorsements. 
 
 ### Search
 1. [xQuAD : Exploiting Query Reformulations for Web Search Result Diversification](http://www.ra.ethz.ch/cdstore/www2010/www/p881.pdf) `WWW 2010`
+2. [Counterfactual Estimation and Optimization of Click Metrics for Search Engines](https://arxiv.org/abs/1403.1891) `Microsoft` `Facebook` `WWW 2015`
 
 
 ### Multi-Objective Ranking
@@ -33,10 +34,40 @@ Resources listed here are on my to-read, to-do, to-try lists, not endorsements. 
 2. [Inferring Networks of Substitutable and Complementary Products](https://cseweb.ucsd.edu/~jmcauley/pdfs/kdd15.pdf), [Video](https://www.youtube.com/watch?v=vdSWhYZipzc), [Video](https://www.youtube.com/watch?v=DdSKJRsu-TI) `Pinterest` `UCSD` `Stanford` `KDD 2015`
 3. [Quality-Aware Neural Complementary Item Recommendation](http://people.tamu.edu/~zhan13679/Paper/quality-aware-neural.pdf), [GitHub](https://github.com/sallyyinzhang/Quality-Aware-Neural-Complementary-Item-Recommendation), [Video](https://www.youtube.com/watch?v=5bS02BkJ6e4) `Texas A&M University` `SIGIR 2015`
 4. [Complementary Recommendations at eBay: Tackling the Challenges of a Semi-Unstructured Marketplace](https://www.youtube.com/watch?v=3GIoXsCaSM0), [Blog](https://tech.ebayinc.com/engineering/complementary-item-recommendations-at-ebay-scale/)
+5. [Mining Frequent Patterns without Candidate Generation](https://www.cs.sfu.ca/~jpei/publications/sigmod00.pdf) `Simon Fraser University`
+6. [Mining Frequent Itemsets through Progressive Sampling with Rademacher Averages](http://matteo.rionda.to/papers/RiondatoUpfal-FrequentItemsetsSamplingRademacher-KDD.pdf) `Two Sigma Investments` `Brown University` `KDD 2015`
+7. [Mining High Utility Itemsets without Candidate Generation](https://dl.acm.org/doi/10.1145/2396761.2396773) `Wuhan University` `Carleton University` `CIKM 2012`
+8. [Improving Recommendation Accuracy using Networks of Substitutable and Complementary Products](https://ieeexplore.ieee.org/document/7966315) `The Chinese University of Hong Kong` `UCSD` `IJCNN 2017`
+9. [Modelling Complementary Products and Customer Preferences with Context Knowledge for Online Recommendation](https://arxiv.org/abs/1904.12574v1) `Walmart Labs` `KDD 2019`
+10. [Collaborative Sequence Prediction for Sequential Recommender](https://dl.acm.org/doi/10.1145/3132847.3133079) `University of Chinese Academy of Sciences` `CIKM 2017`
+11. [Domain Knowledge Based Personalized Recommendation Model and Its Application in Cross-selling](https://www.sciencedirect.com/science/article/pii/S1877050912002657) `Chinese Academy of Sciences` `University of Nebraska at Omaha` `ICCS 2012`
+12. [Recommending Complementary Products in E-Commerce Push Notifications with a Mixture Model Approach](https://arxiv.org/abs/1707.08113) `Alibaba` `SIGIR 2017`
+13. [CRAFT: Complementary Recommendations Using Adversarial Feature Transformer](https://arxiv.org/abs/1804.10871) `Amazon`
+14. [Knowledge-aware Complementary Product Representation Learning](https://arxiv.org/abs/1904.12574) `Walmart Labs` `WSDM 2020`
+15. [c+ GAN: Complementary Fashion Item Recommendation](https://arxiv.org/abs/1906.05596) `Microsoft` `KDD 2019`
+16. [Association Rules with Graph Patterns](http://homepages.inf.ed.ac.uk/wenfei/papers/vldb15-GPAR.pdf) `VLDB 2015`
+17. [Cross-sell: A Fast Promotion-Tunable Customer-item Recommendation Method Based on Conditionally Independent Probabilities](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.1732&rep=rep1&type=pdf) `Vignette Corporation`
+18. [A Fast Algorithm for Mining Utility-Frequent Itemsets](https://dtai.cs.kuleuven.be/CMILE07/utility.pdf)
+19. [Isolated items discarding strategy for discovering high utility itemsets](https://www.sciencedirect.com/science/article/abs/pii/S0169023X07001218)
+20. [Direct Candidates Generation: A Novel Algorithm for Discovering Complete Share-Frequent Itemsets](https://link.springer.com/chapter/10.1007/11540007_67)
+21. [Complementary-Similarity Learning using Quadruplet Network](https://arxiv.org/abs/1908.09928) `Walmart Labs`
+22. [Inferring Substitutable Products with Deep Network Embedding](https://www.ijcai.org/Proceedings/2019/0598.pdf) `IJCAI 2019`
+23. [Item Recommendation on Monotonic Behavior Chains](https://cseweb.ucsd.edu/~jmcauley/pdfs/recsys18b.pdf) `UCSD` `RecSys 2018`
+24. [Inferring Complementary Products from Baskets and Browsing](https://arxiv.org/abs/1809.09621) `Yandex Market` `RecSys 2018`
+25. [Personalized Bundle List Recommendation](https://arxiv.org/abs/1904.01933) `Alibaba` `WWW 2019`
+26. [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://arxiv.org/abs/1905.06874) `Alibaba`
+27. [Temporal Recommendation on Graphs via Long- and Short-term Preference Fusion](http://www.comp.hkbu.edu.hk/~lichen/download/p723-xiang.pdf) `IBM` `KDD 2010`
+28. [Don’t Classify, Translate: Multi-Level E-Commerce Product Categorization Via Machine Translation](https://arxiv.org/abs/1812.05774), [Video](https://www.youtube.com/watch?v=kjdqvFvOVT8) `NUS` `Rakuten`
+29. [Generating and Personalizing Bundle Recommendations on Steam](https://cseweb.ucsd.edu/~jmcauley/pdfs/sigir17.pdf) `UCSD` `SIGIR 2017`
+30. [Context-Aware Recommender Systems](https://aaai.org/ojs/index.php/aimagazine/article/view/2364)
+31. [Basket-Sensitive Personalized Item Recommendation](https://www.ijcai.org/Proceedings/2017/0286.pdf) `IJCAI 2017`
+32. [Factorizing Personalized Markov Chains for Next-Basket Recommendation](https://www.ismll.uni-hildesheim.de/pub/pdfs/RendleFreudenthaler2010-FPMC.pdf) `WWW2010`
+33. [Learning Hierarchical Representation Model for Next Basket Recommendation](http://www.bigdatalab.ac.cn/~junxu/publications/SIGIR2015_NextBasketRec.pdf) `SIGIR 2015`
 
 
 ### Price Sensitivity
 1. [Modeling Consumer Preferences and Price Sensitivities from Large-Scale Grocery Shopping Transaction Logs](https://cseweb.ucsd.edu/~jmcauley/pdfs/www17.pdf) `Microsoft` `UCSD` `WWW 2017`
+2. [Personal Price Aware Multi-Seller Recommender System: Evidence from eBay](https://www.sciencedirect.com/science/article/abs/pii/S0950705118300893) `eBay`
 
 
 ## Anamoly/Fraud Detection
