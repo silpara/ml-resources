@@ -38,6 +38,23 @@
 1. [Modeling Consumer Preferences and Price Sensitivities from Large-Scale Grocery Shopping Transaction Logs](https://cseweb.ucsd.edu/~jmcauley/pdfs/www17.pdf) `Microsoft` `UCSD` `WWW 2017`
 
 
+## Anamoly/Fraud Detection
+1. [Isolation Forest](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf?q=isolation-forest) `Monash University` `Nanjing University`
+2. [Isolation-based Anomaly Detection - Isolation Forest - Long Paper](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tkdd11.pdf) `Monash University` `Nanjing University` `TKDD`
+3. [iNNE - Efficient Anomaly Detection by Isolation Using Nearest Neighbour Ensemble](https://ieeexplore.ieee.org/document/7022664) `Monash University` `Federation University` `ICDM-W`
+4. [LOF: Identifying Density-Based Local Outliers](https://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf) `University of Munich` `University of British Columbia` `SIGMOD 2000`
+5. [Which Anomaly Detector should I use?](https://federation.edu.au/__data/assets/pdf_file/0011/443666/ICDM2018-Tutorial-Final.pdf) `Federation University` `Osaka University` `ICDM 2018`
+6. [PyOD: A Python Toolbox for Scalable Outlier Detection](http://www.jmlr.org/papers/volume20/19-011/19-011.pdf), [GitHub](https://github.com/yzhao062/pyod) `CMU` `University of Toronto` `Northeastern University Toronto`
+7. [SUOD: A Scalable Unsupervised Outlier Detection Framework](https://arxiv.org/abs/2003.05731), [GitHub](https://github.com/yzhao062/SUOD) `CMU` `IQVIA` `University of Illinois` `KDD 2020`
+8. [Liar Buyer Fraud, and How to Curb It](https://www.ndss-symposium.org/wp-content/uploads/2017/09/03_4_3.pdf) `Zapfraud Inc.` `NYU` `UCSD`
+9. [Detecting organized eCommerce fraud using scalable categorical clustering](https://arxiv.org/abs/1910.04514) `Aalto University`
+10. [A Pattern Based Anti-Fraud Method in C2C Ecommerce Environment](https://ieeexplore.ieee.org/document/5590833/) `Beijing Institute of Technology`
+11. [Microsoft Uses Machine Learning and Optimization to Reduce E-Commerce Fraud](https://pubsonline.informs.org/doi/10.1287/inte.2019.1017) `Microsoft` `INFORMS`
+12. [Dual Sequential Variational Autoencoders for Fraud Detection](https://link.springer.com/chapter/10.1007/978-3-030-44584-3_2) `Univ. Lyon` `Univ. St-Etienne` `IDA 2020`
+13. [Fraud Detection for E-commerce Transactions by Employing a Prudential Multiple Consensus Model](https://www.sciencedirect.com/science/article/abs/pii/S2214212618304216) `University of Cagliari`
+14. 
+
+
 ## Feature Engineering
 1. [featuretools](https://github.com/FeatureLabs/featuretools) 
 	- [Introductory Notebook](https://github.com/Featuretools/predict-customer-churn/blob/master/churn/3.%20Feature%20Engineering.ipynb) 
