@@ -1,8 +1,6 @@
 # ML Resources
 
 [![HitCount](http://hits.dwyl.com/silpara/ml-resources.svg)](http://hits.dwyl.com/silpara/ml-resources) 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/silpara/ml-resources" data-color-scheme="no-preference: light; light: dark; dark: dark;" data-icon="octicon-star" aria-label="Star silpara/ml-resources on GitHub">Star</a>
 
 Resources listed here are on my to-read, to-do, to-try lists, not endorsements. I collect these typically at the beginning of projects and I go through them as time progresses when I want to explore a new way of looking at the problem I am working on.
 
