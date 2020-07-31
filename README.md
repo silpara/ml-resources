@@ -1,7 +1,5 @@
 # ML Resources
 
-[![HitCount](http://hits.dwyl.com/silpara/ml-resources.svg)](http://hits.dwyl.com/silpara/ml-resources) 
-
 Resources listed here are on my to-read, to-do, to-try lists, not endorsements. I collect these typically at the beginning of projects and I go through them as time progresses when I want to explore a new way of looking at the problem I am working on.
 
 
