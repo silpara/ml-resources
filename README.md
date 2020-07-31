@@ -15,6 +15,7 @@ Resources listed here are on my to-read, to-do, to-try lists, not endorsements. 
 ### Search
 1. [xQuAD : Exploiting Query Reformulations for Web Search Result Diversification](http://www.ra.ethz.ch/cdstore/www2010/www/p881.pdf) `WWW 2010`
 2. [Counterfactual Estimation and Optimization of Click Metrics for Search Engines](https://arxiv.org/abs/1403.1891) `Microsoft` `Facebook` `WWW 2015`
+2. [Cascade Ranking for Operational E-commerce Search](https://arxiv.org/abs/1706.02093) `Alibaba` `KDD 2017`
 
 
 
@@ -95,6 +96,9 @@ Resources listed here are on my to-read, to-do, to-try lists, not endorsements. 
 32. [Factorizing Personalized Markov Chains for Next-Basket Recommendation](https://www.ismll.uni-hildesheim.de/pub/pdfs/RendleFreudenthaler2010-FPMC.pdf) `WWW2010`
 33. [Learning Hierarchical Representation Model for Next Basket Recommendation](http://www.bigdatalab.ac.cn/~junxu/publications/SIGIR2015_NextBasketRec.pdf) `SIGIR 2015`
 
+
+### Embeddings
+1. [Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation](https://arxiv.org/abs/1607.07326) `Criteo` `Facebook` `RecSys 2016`
 
 
 ### Price Sensitivity
