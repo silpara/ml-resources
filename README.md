@@ -107,6 +107,7 @@ Resources listed here are on my to-read, to-do, to-try lists, not endorsements. 
 
 ### Miscellaneous
 1. [How Algorithmic Confounding in Recommendation Systems Increases Homogeneity and Decreases Utility](https://arxiv.org/abs/1710.11214) `Princeton` `RecSys 2018`
+2. [Explore-Exploit in Top-N Recommender Systems via Gaussian Processes](https://las.inf.ethz.ch/files/vanchinathan14explore.pdf), [Video](https://www.youtube.com/watch?v=osrao7Hb7HM) `ETH` `Microsoft` `Google` `RecSys 2014`
 
 
 
